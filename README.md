@@ -1,2 +1,4 @@
-# tetris_proyecto
-proyecto tetris
+# Tetris
+Tetris with Pygame
+
+![tetris](/screenshot/0.jpg)
